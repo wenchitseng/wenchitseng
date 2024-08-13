@@ -1,4 +1,4 @@
-👋 Hey there, I’m **Wenchi**, an MS in Business Analytics student at UCIrvine, graduating at the end of August.   
+👋 Hey there, I’m **Wenchi**, an MS in Business Analytics student at UCIrvine, graduating at the end of August 2024.   
 
 🌱 My toolbox: Python, R, SQL, Tableau, Power BI and more!  
 
