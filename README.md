@@ -6,7 +6,6 @@
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/wen-chi-tseng/"link")—would love to chat!    
 
-⚡ Fun fact(not work related...) about me: Racing through the pool as a competitive swimmer for over 10 years/ Overanalyzing my coffee choices— because yes, I’m that serious about my caffeine. :)
 
 <!---
 wenchitseng/wenchitseng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
